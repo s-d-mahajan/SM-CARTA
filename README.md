@@ -1,4 +1,4 @@
-# `capitalization_table`
+# `SM-CARTA`
 
 A CLI tool to read capitalization table and output vesting schedule for give csv data.
 
